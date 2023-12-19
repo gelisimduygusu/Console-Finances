@@ -22,18 +22,13 @@ Average of the changes in Profit/Losses over the entire period.
 (Total/(Number of months - 1))
 Greatest increase in Profit/Losses (date and difference in amounts) over the entire period.
 Greatest decrease in Profit/Losses (date and difference in amounts) over the entire period.
-## Result Display:
+
+## Result Display: 
 
 When you open your code in the browser, the resulting financial analysis should be displayed in the console, formatted as follows:
-plaintext
-Copy code
-Financial Analysis 
-----------------
-Total Months: 86
-Total: $38382578
-Average Change: -2315.12
-Greatest Increase in Profits/Losses: Feb-2012 ($1926159)
-Greatest Decrease in Profits/Losses: Sep-2013 ($-2196167)
+
+<img width="738" alt="Screenshot 2023-12-19 at 20 35 59" src="https://github.com/gelisimduygusu/Console-Finances/assets/151784243/8d30115b-ff4a-4d3b-8f94-51ee9f574b04">
+
 ## Customization:
 
 Customize the project by modifying the dataset or adjusting the code to handle additional scenarios.
