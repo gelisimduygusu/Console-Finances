@@ -34,8 +34,8 @@ In the browser, the resulting financial analysis should be displayed in the cons
 Customize the project by modifying the dataset or adjusting the code to handle additional scenarios.
 ## Project Structure
 
-index.html: HTML file to run the JavaScript code in a browser.
+*index.html: HTML file to run the JavaScript code in a browser.
 
-index.js: JavaScript file containing the code for financial analysis.
+*index.js: JavaScript file containing the code for financial analysis.
 
-Other files as needed.
+*Other files as needed.
