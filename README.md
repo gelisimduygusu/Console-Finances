@@ -25,7 +25,7 @@ Greatest decrease in Profit/Losses (date and difference in amounts) over the ent
 
 ## Result Display: 
 
-When you open your code in the browser, the resulting financial analysis should be displayed in the console, formatted as follows:
+In the browser, the resulting financial analysis should be displayed in the console, formatted as follows:
 
 <img width="738" alt="Screenshot 2023-12-19 at 20 35 59" src="https://github.com/gelisimduygusu/Console-Finances/assets/151784243/8d30115b-ff4a-4d3b-8f94-51ee9f574b04">
 
@@ -33,6 +33,9 @@ When you open your code in the browser, the resulting financial analysis should 
 
 Customize the project by modifying the dataset or adjusting the code to handle additional scenarios.
 ## Project Structure
+
 index.html: HTML file to run the JavaScript code in a browser.
+
 index.js: JavaScript file containing the code for financial analysis.
+
 Other files as needed.
